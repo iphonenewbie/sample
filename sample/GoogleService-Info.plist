@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>939136858002-uc7h438gqj4pj6pn8dpq7aoqlk8m3csd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.939136858002-uc7h438gqj4pj6pn8dpq7aoqlk8m3csd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCgXbR_cOJ-H3zNVYRUJLKRPQz-DUTUerg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>939136858002</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.SampleSwiftApp</string>
+	<key>PROJECT_ID</key>
+	<string>sampleswift-1499841878541</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sampleswift-1499841878541.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:939136858002:ios:f09a04527cfa3a1daa734b</string>
+	<key>DATABASE_URL</key>
+	<string>https://sampleswift-1499841878541.firebaseio.com</string>
+</dict>
+</plist>
